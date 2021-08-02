@@ -26,3 +26,13 @@ Slack_username = ("@KabantiyokD")
 print(Slack_username)
 Biostak = ("Python")
 print(Biostak)
+
+
+name = "Rachael"
+email = "rachaelemman@gmail.com"
+slack_name = "@Rachael"
+biostack = "python"
+print (f"my_name is {name}")
+print (f"email: {email}")
+print (f"slack_name: {slack_name}")
+print (f"biostack: {biostack}")
