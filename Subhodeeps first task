@@ -1,0 +1,2 @@
+my_dict = {'Name':"Subhodeep Chatterjee" , "email_id" : 'subhojaigurudev@gmail.com' , "Slack_name" : 'Subhodeep'}
+print(my_dict)
