@@ -1,5 +1,23 @@
-my_dict = {'Name':"Subhodeep Chatterjee" , "email_id" : 'subhojaigurudev@gmail.com' , "Slack_name" : 'Subhodeep'}
-print(my_dict)
+#Subhodeep
+class portifolio :
+    def __init__(self,name,email,slack_ID,group_name,biostack):
+        self.name= name
+        self.email= email
+        self.slack_ID=slack_ID
+        self.group_name=group_name
+        self.biostack= biostack
+        
+
+
+portfolio1= portifolio("Subhodeep","subhojaigurudev@gmail.com","Subhodeep","Team woese","python")
+
+print(portfolio1.name)
+print(portfolio1.email)
+print(portfolio1.slack_ID)
+print(portfolio1.group_name)
+print(portfolio1.biostack)
+
+
 Name = ("Dennis Kabantiyok")
 print(Name)
 Email = ("denzelkbt@gmail.com")
