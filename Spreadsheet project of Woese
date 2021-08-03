@@ -46,3 +46,13 @@ print("Prathyusha cota")
 print("Prathyushacota@gmail.com")
 print("@Prathyusha")
 print("Genomics")
+
+
+Name=("Ukaegbu Daniel Chinwendu")
+print(Name)
+Email("ukaegbudaniel33@gmail.com")
+print(Email)
+Slack_Username("Daniel)
+Print(Slack_Username)
+Biostack=Genomics
+print=(Biostack)
