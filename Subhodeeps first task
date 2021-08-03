@@ -9,7 +9,7 @@ class portifolio :
         
 
 
-portfolio1= portifolio("Subhodeep","subhojaigurudev@gmail.com","Subhodeep","Team woese","python")
+portfolio1= portifolio("Subhodeep","subhojaigurudev@gmail.com","Subhodeep","Team woese","Data science and public health and epidemology")
 
 print(portfolio1.name)
 print(portfolio1.email)
