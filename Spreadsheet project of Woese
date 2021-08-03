@@ -36,3 +36,8 @@ print (f"email: {email}")
 print (f"slack_name: {slack_name}")
 print (f"biostack: {biostack}")
 
+print("Aditi Sammi")
+print("aditi.sammi.bce19@itbhu.ac.in")
+print("@Aditi")
+print("Team woese")
+print("Genomics, variant calling")
