@@ -1,0 +1,20 @@
+####1.save the below code in a .cc file(task1.cc) using a text editor
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+void task1 (string name, string email, string slackusername, string Biostack) {
+  cout << "I am " << name << "\n" << "My eamil is " << email << "\n"  << slackusername << " is my slack username \n" <<  "Biostack is ," << Biostack << "\n" ;
+}
+
+int main() {
+  task1("Kehinde Adeniran", "adeniranrukayyat1610@gmail.com", "kehinde" , "Vaccine Informatics");
+  return 0;
+}
+
+
+##2. to run the code script
+
+$ g++ -o task1 task1.cc
+$ ./task1
