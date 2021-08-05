@@ -17,5 +17,4 @@ Prathyusha is team woese's team lead
 
 ### Contributors
 
-Subhodeep helped in creating the team's github repo,
-Rachael wrote on the information of the readme
+Subhodeep, Aditi, Esther, Kehinde, Rachael, Prathyusha, Gayatri, Daniel, KBT, Gayatri, Yevgen
