@@ -31,10 +31,9 @@ name = "Rachael"
 email = "rachaelemman@gmail.com"
 slack_name = "@Rachael"
 biostack = "genomics"
-print (f"my_name is {name}")
-print (f"email: {email}")
-print (f"slack_name: {slack_name}")
-print (f"biostack: {biostack}")
+twitter_handle = "@Rachael"
+hamming_distance = 0
+print (name, email, slack_name, biostack, twitter_handle, hamming_distance)
 
 print("Aditi Sammi")
 print("aditi.sammi.bce19@itbhu.ac.in")
