@@ -1,8 +1,0 @@
-Name = ("Esther Ugwueke")
-print(Name)
-Email = ("ugwuekeestherc@gmail.com")
-print(Email)
-Slack_Username = ("@Esther")
-print(Slack_Username)
-Biostack = ("Data Science")
-print(Biostack)
