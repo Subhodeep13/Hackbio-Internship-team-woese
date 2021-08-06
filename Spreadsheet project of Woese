@@ -35,11 +35,14 @@ twitter_handle = "@Rachael"
 hamming_distance = 0
 print (name, email, slack_name, biostack, twitter_handle, hamming_distance)
 
-print("Aditi Sammi")
-print("aditi.sammi.bce19@itbhu.ac.in")
-print("@Aditi")
-print("Team woese")
-print("Genomics")
+#include <stdio.h>
+int main()
+{
+int hammingdistance;
+hammingdistance = 5 ;
+printf("Aditi, aditi.sammi.bce19@itbhu.ac.in, @Aditi, Genomics, %d", hammingdistance);
+return 0;
+}
 
 print("Prathyusha cota")
 print("Prathyushacota@gmail.com")
