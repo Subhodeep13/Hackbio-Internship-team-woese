@@ -1,1 +1,10 @@
-name = 
+# Rachael info
+
+name = "Rachael"
+email = "rachaelemman@gmail.com"
+slack_name = "@Rachael"
+biostack = "genomics"
+twitter_handle = "@Rachael"
+slack_name, biostack, twitter_handle, hamming_distance)
+
+
