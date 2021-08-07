@@ -12,4 +12,4 @@ func hamming(_ str1: String, _ str2: String) -> Int {
 }
 
 let distance = hamming("Yevgen", "xzenon")
-print("Yevgen Haletskyi,xzenon@gmail.com,@Yevgen,Datascience,@xzenon,\(distance)")
+print("Yevgen Haletskyi,xzenon@gmail.com,@Yevgen,Data Science,@xzenon,\(distance)")

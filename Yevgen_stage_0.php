@@ -13,6 +13,6 @@ function hamming($str1, $str2)
 }
  
 $distance = hamming("Yevgen", "xzenon");    
-echo "Yevgen Haletskyi,xzenon@gmail.com,@Yevgen,Datascience,@xzenon," . $distance ."\n";
+echo "Yevgen Haletskyi,xzenon@gmail.com,@Yevgen,Data Science,@xzenon," . $distance ."\n";
 
 ?>
