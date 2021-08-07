@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main()
+{
+int hammingdistance;
+hammingdistance = 5 ;
+printf("Aditi, aditi.sammi.bce19@itbhu.ac.in, @Aditi, Genomics, %d", hammingdistance);
+return 0;
+}
