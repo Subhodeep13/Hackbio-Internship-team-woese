@@ -1,8 +1,8 @@
-Name = "Andre Vargas "
+Name = "Andre Vargas"
 Email = "vargasaguilarandre@gmail.com"
 Slack_username = "@Andre"
-Diostack = "Drug Design snd Development"
-twitter_handle = "@AndreVargasAgu1"
+Biostack = "Drug Design snd Development"
+Twitter_handle = "@AndreVargasAgu1"
 
 def hammingdistance(slack_username,twitter_handle):
 	counts=0
@@ -14,6 +14,6 @@ def hammingdistance(slack_username,twitter_handle):
 				counts+=1
 	return counts
 
-hammingdis = hammingdistance(slack_username,twitter_handle)
+hammingdis = hammingdistance(Slack_username,Twitter_handle)
 
-print(name,email,slack_username,biostack,twitter_handle,hammingdis)
+print(f"{Name},{Email},{Slack_username},{Biostack},{Twitter_handle},{hammingdis}")

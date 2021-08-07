@@ -1,12 +1,4 @@
 // Introduction _First assignment on HackBioInternship
-var Name = "Esther Ugwueke";
-var Email = "ugwuekeestherc@gmail.com";
-var Slack_Username = "@Esther";
-var Biostack = "Data Science";
-var Twitter = "@EstherUgwueke";
-console.log(Name, Email, Slack_Username, Biostack, Twitter);
-
-
 
 // Hamming Distance
 const str1 = "@Esther";
@@ -23,4 +15,11 @@ const hammingDistance = (str1 = " ", str2 = " ") => {
     };
     return dist;
 };
-console.log(hammingDistance(str1, str2));
+
+var Name = "Esther Ugwueke";
+var Email = "ugwuekeestherc@gmail.com";
+var Slack_Username = "@Esther";
+var Biostack = "Data Science";
+var Twitter = "@EstherUgwueke";
+var Distance = hammingDistance(str1, str2)
+console.log(Name + "," + Email + "," + Slack_Username + "," + Biostack + "," + Twitter + "," + Distance);

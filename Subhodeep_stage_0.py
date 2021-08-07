@@ -1,0 +1,1 @@
+print("Subhodeep,subhojaigurudev@gmail.com,Subhodeep,Data science and public health and epidemology,Subhode15376402,8")

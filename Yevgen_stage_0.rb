@@ -1,3 +1,3 @@
 #!/usr/bin/ruby
 
-puts "Yevgen, xzenon@gmail.com, @Yevgen, Datascience, @xzenon, 5"
+puts "Yevgen Haletskyi,xzenon@gmail.com,@Yevgen,Datascience,@xzenon,5"
