@@ -15,7 +15,7 @@ She is a senior year undergraduate student majoring in biotechnology, she has ar
 She is a postgraduate Biotechnology student with keen interest in Bioinformatics, she intend learning more in genomics as she has her reserch on genetics of infectious diseases
 
 ##### Esther
-Esther interests lie in Bioinformatics and Datascience
+Esther Ugwueke is a biomedical technology graduate, she is a gender and SRHR advocate and a programming enthusiast with a focus on bioinformatics and data science.
 
 ###### Kehinde
 She is a graduate research assistant who intends learning more in bioinformatics
