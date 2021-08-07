@@ -8,8 +8,8 @@ def hamming_distance(string1, string2):
 
 name = "Prathyusha Cota"
 email = "Prathyushacota@gmail.com"
-slack_name = "Prathyusha"
+slack_name = "@Prathyusha"
 biostack = "genomics"
-twitter_handle = "cotaprathyusha"
+twitter_handle = "@cotaprathyusha"
 distance = hamming_distance("Prathyusha", "cotaprathyusha")
 print(f"{name},{email},{slack_name},{biostack},{twitter_handle},{distance}")
