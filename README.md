@@ -6,15 +6,5 @@ The hackbio internship is about building technical expertise in bioinformatics f
 Our team is made up of 20 members from different countries across the globe, it is named after the late American microbiologist: Carl Woese who discovered the prokaryote Archaea. Prathyusha is team woese's team lead
 
 ### Members
-Subhodeep
-Aditi
-Esther
-Kehinde 
-Rachael
-Prathyusha
-Gayatri
-Daniel
-KBT
-Gayatri
-Yevgen
+Subhodeep, Aditi, Esther, Kehinde, Rachael, Prathyusha, Gayatri, Daniel, KBT, Gayatri, Yevgen
 
