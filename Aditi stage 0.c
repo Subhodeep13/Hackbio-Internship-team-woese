@@ -15,6 +15,11 @@ for(i = 0; i < length; i++)
         }
     }
 int hammingdistance = count;
-printf("Aditi, aditi.sammi.bce19@itbhu.ac.in, @Aditi, Genomics, %d", hammingdistance);
+//Other info
+char name[] = "Aditi Sammi";
+char email[] = "aditi.sammi.bce19@itbhu.ac.in";
+char slack[] = "@Aditi";
+char biostack[] = "Genomics";
+printf("%s, %s, %s, %s, %d", name, email, slack, biostack, hammingdistance);
 return 0;
 }
