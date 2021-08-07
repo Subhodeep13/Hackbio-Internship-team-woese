@@ -1,15 +1,10 @@
-// Introduction _First assignment on HackBioInternship#
-
+// Introduction _First assignment on HackBioInternship
 var Name = "Esther Ugwueke";
-console.log(Name);
 var Email = "ugwuekeestherc@gmail.com";
-console.log(Email);
 var Slack_Username = "@Esther";
-console.log(Slack_Username);
 var Biostack = "Data Science";
-console.log(Biostack);
 var Twitter = "@EstherUgwueke";
-console.log(Twitter);
+console.log(Name, Email, Slack_Username, Biostack, Twitter);
 
 
 
