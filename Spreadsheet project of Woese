@@ -1,22 +1,33 @@
 #Subhodeep
 class portifolio :
-    def __init__(self,name,email,slack_ID,group_name,biostack):
+    def __init__(self,name,email,slack_ID,group_name,biostack,twitter_username):
         self.name= name
         self.email= email
         self.slack_ID=slack_ID
         self.group_name=group_name
         self.biostack= biostack
+        self.twitter_username=twitter_username
+        
+       
         
 
 
-portfolio1= portifolio("Subhodeep","subhojaigurudev@gmail.com","Subhodeep","Team woese","Data science and public health and epidemology")
+portfolio1= portifolio("Subhodeep","subhojaigurudev@gmail.com","Subhodeep","Team woese","Data science and public health and epidemology",'Subhode15376402")
 
 print(portfolio1.name)
 print(portfolio1.email)
 print(portfolio1.slack_ID)
 print(portfolio1.group_name)
 print(portfolio1.biostack)
+print(portfolio1.twitter_username)
 
+def hamming_distance (lhs,rhs):
+    return len([(x,y) for x,y in zip(lhs,rhs) if x is y])
+
+slack_name = 'Subhodeep'
+twitter_username= 'Subho15376402'
+
+print(hamming_distance(slack_name,twitter_username))
 
 Name = ("Dennis Kabantiyok")
 print(Name)
