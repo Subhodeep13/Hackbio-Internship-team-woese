@@ -8,3 +8,15 @@ Our team is made up of 20 members from different countries across the globe, it 
 ### Members
 Subhodeep, Aditi, Esther, Kehinde, Rachael, Prathyusha, Gayatri, Daniel, KBT, Gayatri, Yevgen
 
+#### Prathyusha
+She is a senior year undergraduate student majoring in biotechnology, she has ardent interest in neuroscience and wants to learn bioinformatics
+
+##### Rachael
+She is a postgraduate Biotechnology student with keen interest in Bioinformatics, she intend learning more in genomics as she has her reserch on genetics of infectious diseases
+
+##### Esther
+Esther interests lie in Bioinformatics and Datascience
+
+###### Kehinde
+She is a graduate research assistant who intends learning more in bioinformatics
+
