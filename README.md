@@ -20,3 +20,5 @@ Esther Ugwueke is a biomedical technology graduate, she is a gender and SRHR adv
 ###### Kehinde
 She is a graduate research assistant who intends learning more in bioinformatics
 
+###### Aditi
+She is an undergradute student at Indian Institute of Technology (BHU), Varanasi, studying Biotechnology and has a keen interest for bioinformatics.
