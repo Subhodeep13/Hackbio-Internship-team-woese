@@ -23,7 +23,7 @@ Our team is made up of 20 members from different countries across the globe, it 
 She is a senior year undergraduate student majoring in biotechnology, she has ardent interest in neuroscience and wants to learn bioinformatics
 
 #### Rachael
-She is a postgraduate Biotechnology student with keen interest in Bioinformatics, she intends learning more in genomics as she has her reserch on genetics of infectious diseases
+She is a postgraduate Biotechnology student with keen interest in Bioinformatics, she intends learning more in genomics as she has her research on genetics of infectious diseases
 
 #### Esther
 Esther Ugwueke is a biomedical technology graduate, she is a gender and SRHR advocate and a programming enthusiast with a focus on bioinformatics and data science.
