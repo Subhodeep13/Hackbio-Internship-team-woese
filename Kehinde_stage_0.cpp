@@ -1,5 +1,3 @@
-#####Kehinde, C++
-
 #include<iostream>
 #include<string>
 #include<stdio.h>
@@ -17,4 +15,11 @@ void hamming_dist (string slackusername, string twitterhandle) {
         if(string1[i] != string2[i])
             count++;
     cout << "\nhamming Distance: "<<count;
+}
+
+int main() {
+  task1("Kehinde Adeniran", "adeniranrukayyat1610@gmail.com", "@kehinde16" , "Vaccine Informatics", "@kenny1610");
+  hamming_dist("@kehinde16", "@kenny1610");
+  return 0;
+
 }
