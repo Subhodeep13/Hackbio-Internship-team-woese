@@ -14,7 +14,7 @@ void hamming_dist (string slackusername, string twitterhandle) {
     for (int i=0; string1[i]!=0; i++)
         if(string1[i] != string2[i])
             count++;
-    cout << ","<<count;
+    cout << "," << count << "\n";
 }
 
 int main() {
