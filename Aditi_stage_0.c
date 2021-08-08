@@ -20,7 +20,7 @@ char name[] = "Aditi Sammi";
 char email[] = "aditi.sammi.bce19@itbhu.ac.in";
 char slack[] = "@Aditi";
 char biostack[] = "Genomics";
-char twitter[] = "-";
+char twitter[] = "SammiAditi";
 printf("%s, %s, %s, %s, %s, %d\n", name, email, slack, biostack, twitter, hammingdistance);
 return 0;
 }
